@@ -1,0 +1,4 @@
+#Thu Aug 18 16:09:25 KGT 2022
+base.0=/Users/aza/development/flutter_projects/test_task/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
